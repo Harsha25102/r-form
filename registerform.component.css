@@ -1,0 +1,21 @@
+  
+.container-fluid{
+  padding-top: 4rem;
+  padding-left:6rem;
+  padding-right:4rem;
+}
+#second_row{
+  padding-top:2rem;
+}
+#third{
+  padding-top: 2rem;
+}
+#button{
+  padding-top: 2rem;
+}
+#ontime{
+  padding-top: 4rem;
+}
+.alert alert-danger{
+  padding-right: 2rem;
+}
